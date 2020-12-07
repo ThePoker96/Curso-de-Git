@@ -1,0 +1,22 @@
+mkdir (NOmbre del directorio) : comando para crear una carpeta
+
+touch (Nombre del archivo que no tiene nada por dentro <Ej: txt>) :
+
+cat : comando para ver el contenido de un archivo
+
+history : historia de los comandos
+
+rm : comando para borrar los archivos
+
+(comando --help) : ayuada de todas las opciones
+
+git init : inicializa un repositorio
+
+git status : muestra la informacion actual
+
+git add (nombre de lo que se desea agregar)
+
+git rm --cached (nombre del archivo a borrar cuando está añadido pero aun se encuentra en el intermedio)
+
+git commit -m (envia los archivo añadido al repositorio)
+
