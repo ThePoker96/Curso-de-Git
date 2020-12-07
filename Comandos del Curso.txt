@@ -38,3 +38,4 @@ git show <nombre del archivo> : (muestra el historial de cambios del archivo mas
 
 git diff <indicador de una version <espacio> indicador de otra version> : (compara dos versiones)
 
+git reset <indicador de una version> --hard or soft (regresar a una version anterior)
