@@ -36,3 +36,5 @@ git log <nombre del archivo> : (muestra el historia de cambios del archivo)
 
 git show <nombre del archivo> : (muestra el historial de cambios del archivo mas detallado)
 
+git diff <indicador de una version <espacio> indicador de otra version> : (compara dos versiones)
+
