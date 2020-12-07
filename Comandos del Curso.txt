@@ -20,3 +20,12 @@ git rm --cached (nombre del archivo a borrar cuando está añadido pero aun se e
 
 git commit -m (envia los archivo añadido al repositorio)
 
+git config
+
+git config --list
+
+git config --list --show-origin
+
+git config --global user.name "Gabriel Pimienta"
+
+git config --global user.email "gpimienta96@gmail.com"
