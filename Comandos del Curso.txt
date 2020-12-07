@@ -31,3 +31,8 @@ git config --global user.name "Gabriel Pimienta"
 git config --global user.email "gpimienta96@gmail.com"
 
 git add . : añade todos los archivos modificados
+
+git log <nombre del archivo> : (muestra el historia de cambios del archivo) 
+
+git show <nombre del archivo> : (muestra el historial de cambios del archivo mas detallado)
+
