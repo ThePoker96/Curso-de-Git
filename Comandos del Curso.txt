@@ -29,3 +29,5 @@ git config --list --show-origin
 git config --global user.name "Gabriel Pimienta"
 
 git config --global user.email "gpimienta96@gmail.com"
+
+git add . : añade todos los archivos modificados
