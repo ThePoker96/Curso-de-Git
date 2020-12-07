@@ -45,3 +45,7 @@ git log --stat
 git checkout <indicador de version> <nombre del archivo> : (para ver un archivo especifico)
 
 git checkout master <nombre del archivo> : (obtenemos el archivo mas actual)
+
+git branch <nombre de la rama> : (crea una rama)
+
+git checkout <nombre de la rama> : (cambias de rama)
