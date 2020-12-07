@@ -39,3 +39,9 @@ git show <nombre del archivo> : (muestra el historial de cambios del archivo mas
 git diff <indicador de una version <espacio> indicador de otra version> : (compara dos versiones)
 
 git reset <indicador de una version> --hard or soft (regresar a una version anterior)
+
+git log --stat
+
+git checkout <indicador de version> <nombre del archivo> : (para ver un archivo especifico)
+
+git checkout master <nombre del archivo> : (obtenemos el archivo mas actual)
