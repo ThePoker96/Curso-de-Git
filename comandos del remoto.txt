@@ -7,3 +7,7 @@ git pull : ()
 git merge : ()
 
 ssh-keygen -t rsa -b 4096 -C "correoElectronico" creacion de llaves publicas y private
+
+eval $(ssh-agent -s) verificar que este funcionando la llave
+
+ssh-add ~/.ssh/id_rsa (agregar la llave a git)
