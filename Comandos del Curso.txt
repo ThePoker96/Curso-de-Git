@@ -51,3 +51,7 @@ git branch <nombre de la rama> : (crea una rama)
 git checkout <nombre de la rama> : (cambias de rama)
 
 alias arbol="git log --all --graph --decorate --oneline"
+
+git tag -a (nombre del tags) -m "(comentario)" (referencia al tags)
+
+git show-ref --tags
